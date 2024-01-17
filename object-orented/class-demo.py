@@ -3,6 +3,8 @@ class Apple:
     model = "Apple"
     pprice = 2500
 
+class Health:
+    pass
 
 m1 = Apple()
 print(m1.name)
