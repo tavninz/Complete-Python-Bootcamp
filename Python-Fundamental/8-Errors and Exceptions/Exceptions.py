@@ -5,9 +5,17 @@
 
 # ZeroDivisionError: division by zero
 
-10 * (root/2)
-
+# 10 * (root/2)
 # NameError: name 'root' is not defined
 
 
 # Handle Error
+
+while True:
+    try:
+        x = input("Input number of age: ")
+        x = 2024 - x # TypeError: unsupported operand type(s) for -: 'int' and 'str'
+        break
+    except ValueError:
+        print("Oops!  That was no valid number.  Try again...")
+
