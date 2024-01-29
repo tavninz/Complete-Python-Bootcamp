@@ -1,0 +1,1 @@
+One: Text File write by code.Two : Line of text write by prgram
