@@ -1,4 +1,22 @@
-"""A Python dictionary is a collection of items that allows us to store data in key: value pairs."""
+'''Dictionary is a collection which is unordered, changeable and indexed. In Python dictionaries are written with curly brackets, and they have keys and values.
+Dictionary items are presented in key:value pairs, and can be referred to by using the key name.
+Dictionary items are ordered, changeable, and does not allow duplicates.
+Dictionary items are presented in key:value pairs, and can be referred to by using the key name.
+Dictionary can be created by placing sequence of elements within curly {} braces, separated by ‘comma’.
+Dictionary holds key:value pair. Key is unique and value can be any type such as list, tuple, integer, etc.
+'''
+
+# Function used with Dictionary
+# Function	Description
+# pop()	    Removes the item with the specified key.
+# update()	Adds or changes dictionary items.
+# clear()	    Remove all the items from the dictionary.
+# keys()	    Returns all the dictionary's keys.
+# values()	Returns all the dictionary's values.
+# get()	    Returns the value of the specified key.
+# popitem()	Returns the last inserted key and value as a tuple.
+# copy()	    Returns a copy of the dictionary.
+
 
 
 car = {
