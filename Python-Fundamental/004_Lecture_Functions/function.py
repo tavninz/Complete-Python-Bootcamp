@@ -1,4 +1,11 @@
-'''https://www.programiz.com/python-programming/function'''
+'''1. What is a Function?
+A function in Python is a block of reusable code that performs a specific task. Functions help in organizing and structuring code efficiently. They allow code reuse, making programs modular and easier to debug.
+
+2. Why Use Functions?
+Code Reusability: Write once, use multiple times.
+Modularity: Break complex programs into smaller, manageable parts.
+Readability: Makes code cleaner and more understandable.
+Easy Debugging: Debugging functions is simpler than debugging large scripts.'''
 
 # simple function
 def sayHello():
