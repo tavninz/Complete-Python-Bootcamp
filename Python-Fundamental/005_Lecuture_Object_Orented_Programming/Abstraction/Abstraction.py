@@ -1,5 +1,7 @@
 '''Abstraction hides implementation details and only exposes essential features.'''
 
+'''Abstraction hides the complexity of the system by exposing only necessary details. In Python, this is typically done using abstract classes (via the abc module) or just defining clear interfaces for the class.'''
+
 
 from abc import ABC, abstractmethod
 

@@ -1,3 +1,6 @@
+'''Encapulation is the process of restricting access to methods and variables in a class in order to prevent direct modification of the data.
+In python, we denote private attributes using underscore as the prefix i.e single _ or double __
+'''
 class Brand:
     def __init__(self):
         self.__maxprice = 9000
