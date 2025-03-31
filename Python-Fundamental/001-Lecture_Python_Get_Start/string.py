@@ -12,8 +12,11 @@ str = "Hello World"
 str2 = 'Hello Python'
 
 print(str[0]) # print the first letter
+# Output: H
 print(str[2:]) # print from the third letter onwards
+# Output: llo World
 print(str[:3]) # print up to the third letter
+# Output: Hel
 print(str[-1]) # print the last letter
 print(str[:-1]) # print up to the last letter
 print(str[::1]) # print each letter, step sizes of one
